@@ -1,12 +1,12 @@
 <div align=center>
 
-# ✨ Experience
+# ✨ EXPERIENCE ✨
 
 | Period              | Description                      |
 | :------------------ | :------------------------------- |
 | `2023.01 ~ 2023.11` | 2023 코드스쿼드 백엔드 과정 수료 |
 
-# 🛠 PROJECT
+# 🛠 PROJECT 🛠
 
 ### Venus Feeder
 
@@ -61,7 +61,7 @@
   </tr>
 </table>
 
-<h1>📚 STACKS</h1>
+# 📚 STACKS 📚
 
 <div align=center> 
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
